@@ -97,7 +97,7 @@
         android:gravity="center_horizontal"
         android:layout_marginTop="@dimen/control_bar_height"
         android:background="@color/bg_video_view"
-        android:checkedButton="@id/aspect_fit_parent"
+        android:checkedButton="@+id/aspect_fit_parent"
         android:orientation="vertical">
 
         <RadioButton
